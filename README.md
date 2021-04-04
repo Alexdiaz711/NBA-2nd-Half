@@ -185,7 +185,7 @@ There are a few ideas I would like to explore to improve this project:
 
 ## Acknowledgments
 
-I would like to thank www.basketball-reference.com and www.sportsbookreview.com for making this data publicly available and accessible. I would also like to thank the instructors and staff of Galvanize -- San Francisco's Data Science Immersive Program for their guidance in developing this project. 
+I would like to thank www.basketball-reference.com and www.sportsbookreview.com for making this data publicly available and accessible.
 
 ## Disclaimer
 Sports betting, or gambling of any sort, should not be taken lightly. The models and strategies recommended here are simply for educational purposes. USE AT YOUR OWN RISK. If you, or someone you know, might have a gambling problem, please call the National Problem Gambling Helpline at 1-800-522-4700
