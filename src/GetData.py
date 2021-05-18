@@ -11,8 +11,6 @@ import pandas as pd
 from pymongo import MongoClient
 import numpy as np
 
-#test change
-
 # Defining Function to use in parsing and storing box score data
 def build_temp_df(temp_df, rows, home=True):
     '''
